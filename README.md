@@ -55,6 +55,7 @@ The purpose of this project is to proceed with the CVLab project.
  Write about need to install the software and how to install them 
 -->
 ### Environment
+ - Pytorch 1.6
 <!-- A step by step series of examples that tell you how to get a development 
 env running
 
@@ -66,9 +67,9 @@ And repeat
 
     until finished
 -->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
+1. ''''
+2. ''''
+3. Update later
 <!--
 ## Deployment
  Add additional notes about how to deploy this on a live system
