@@ -11,7 +11,7 @@
 -->
 ## About RepositoryTemplate
 <!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
+The purpose of this project is to proceed with the CVLab project.
 
 ## Overview
 <!-- Write Overview about this project -->
@@ -29,7 +29,7 @@ This project's purpose is to create a make Repository with a collection of defau
 ### Depencies
  Write about need to install the software and how to install them 
 -->
-### Installing
+### Environment
 <!-- A step by step series of examples that tell you how to get a development 
 env running
 
