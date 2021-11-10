@@ -41,12 +41,10 @@ The purpose of this project is to proceed with the CVLab project.
 ## Overview
 <!-- Write Overview about this project -->
 **If you use this template, you can use this function**
-- Issue Template
-- Pull Request Template
-- Commit Template
-- Readme Template
-- Contribute Template
-- Pull Request Build Test(With Github Actions)
+- Calibration
+- Pose Estimation
+- Pose Correction
+- Distance Estimation
 
 ## Getting Started
 **click `Use this template` and use this template!**
