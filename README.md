@@ -1,4 +1,4 @@
-# CVLab_Project
+# CVLab_Project(ver. old)
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
